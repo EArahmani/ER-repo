@@ -1,0 +1,25 @@
+---
+title       : Wind
+subtitle    : Koordinationsbedarf, Hemmnisse und Konflikte Handlungsfeld
+author      : EnAHRgie Projekt 
+job         : EA European Academy
+logo        : logoENA.png
+framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
+highlighter : highlight.js  # {highlight.js, prettify, highlight}
+hitheme     : solarized_light      # {tomorrow}     # 
+widgets     : [bootstrap, quiz, shiny, interactive]            # {mathjax, quiz, bootstrap}
+mode        : selfcontained # {standalone, draft}
+knit        : slidify::knit2slides
+assets      : {assets: ../../assets}
+ext_widgets : {rCharts: [libraries/nvd3]}
+github:
+user: EArahmani
+repo: ER-repo
+--- 
+
+## Wind
+
+<iframe src = 'file:///H:/RShiny/EnAHRgie/ENA_Slidify/AnsiedlungWindenergie.html' height='600px'></iframe>
+
+ 
+---
